@@ -4,8 +4,8 @@ author: "Roir Bayotas"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+base_url: ""
+repository: roirbr/roirbr.github.io
 
 # Minima social links
 github_username: jsanz
